@@ -772,12 +772,12 @@ img {
 
   .home__moon {
     width: 600px;
-    bottom: 14rem;
+    bottom: 15rem;
   }
 
   .home__trineo {
     width: 500px;
-    bottom: 28rem;
+    bottom: 35rem;
   }
 }
 
@@ -786,7 +786,7 @@ img {
 /* For 2K+ resolutions */
 @media screen and (min-width: 1700px) {
   .home {
-    max-width: 1280px;
+    
     height: 990px;
     margin-inline: auto;
   }
